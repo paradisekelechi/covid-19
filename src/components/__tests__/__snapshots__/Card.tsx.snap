@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card matches snapshot 1`] = `
+<styled.div
+  color="#181634"
+  mode="dark"
+>
+  <Styled(styled.h2)>
+    5,672,883
+  </Styled(styled.h2)>
+  <Styled(styled.h2)>
+    cases
+  </Styled(styled.h2)>
+</styled.div>
+`;

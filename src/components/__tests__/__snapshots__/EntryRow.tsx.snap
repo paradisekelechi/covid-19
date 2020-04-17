@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EntryRow matches snapshot 1`] = `
+<Styled(Styled(styled.div))
+  alignment="space-evenly"
+  mode="dark"
+  spacing="none"
+>
+  <styled.div>
+    <styled.img
+      height="44"
+      src="https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/tr.png"
+      width="100"
+    />
+    <Styled(styled.p)
+      color="#2AA1D1"
+      leftAligned={true}
+    >
+      Turkey
+    </Styled(styled.p)>
+  </styled.div>
+  <styled.div>
+    <Styled(styled.p)
+      color="#2AA1D1"
+    >
+      23,934
+    </Styled(styled.p)>
+    <Styled(styled.p)
+      color="#2AA1D1"
+    >
+      Total Cases
+    </Styled(styled.p)>
+  </styled.div>
+  <styled.div>
+    <Styled(styled.p)
+      color="#8FB8C9"
+    >
+      3,013
+    </Styled(styled.p)>
+    <Styled(styled.p)
+      color="#8FB8C9"
+    >
+      Cases Today
+    </Styled(styled.p)>
+  </styled.div>
+  <styled.div>
+    <Styled(styled.p)
+      color="#7C5151"
+    >
+      501
+    </Styled(styled.p)>
+    <Styled(styled.p)
+      color="#7C5151"
+    >
+      Total Deaths
+    </Styled(styled.p)>
+  </styled.div>
+  <styled.div>
+    <Styled(styled.p)
+      color="#9D3535"
+    >
+      76
+    </Styled(styled.p)>
+    <Styled(styled.p)
+      color="#9D3535"
+    >
+      Deaths Today
+    </Styled(styled.p)>
+  </styled.div>
+  <styled.div>
+    <Styled(styled.p)
+      color="#488010"
+    >
+      786
+    </Styled(styled.p)>
+    <Styled(styled.p)
+      color="#488010"
+    >
+      Recovered
+    </Styled(styled.p)>
+  </styled.div>
+  <styled.div>
+    <Styled(styled.p)
+      color="#838D17"
+    >
+      22,647
+    </Styled(styled.p)>
+    <Styled(styled.p)
+      color="#838D17"
+    >
+      Active Cases
+    </Styled(styled.p)>
+  </styled.div>
+</Styled(Styled(styled.div))>
+`;
